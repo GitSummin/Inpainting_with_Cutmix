@@ -1,5 +1,3 @@
-Here's the improved version of your README.md with enhanced formatting and readability:
-
 ```markdown
 # Inpainting Project
 
