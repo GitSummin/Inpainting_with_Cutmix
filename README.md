@@ -16,7 +16,6 @@ inpainting/
 - OpenCV
 
 To install OpenCV and other required libraries, run the following command:
-```bash
 pip install opencv-python-headless  # Add other necessary packages
 
 ## Usage
