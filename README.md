@@ -1,4 +1,3 @@
-```markdown
 # Inpainting Project
 
 ## Overview
