@@ -1,4 +1,4 @@
-# Inpainting Project
+# Inpainting with Cutmix and Generate YOLO label
 
 ## Overview
 This project implements image inpainting using OpenCV's GrabCut algorithm combined with the CutMix technique. It enhances background images by pasting object images onto them, producing augmented images and labels in YOLO format.
