@@ -5,7 +5,7 @@ This project implements image inpainting using OpenCV's GrabCut algorithm combin
 
 ## Project Structure
 ```
-inpainting/
+Inpainting_with_Cutmix/
 │
 ├── openCV_reference/       # Reference materials and examples using OpenCV
 ├── results/                # Directory where the augmented images and labels are stored
