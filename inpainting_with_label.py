@@ -4,11 +4,11 @@ import matplotlib.pyplot as plt
 import os
 
 # 클래스 레이블 및 상수 정의
-CLASS_LABELS = ['ship', 'storage-tank', 'helicopter', 'large-vehicle', 'tennis-court', 'harbor']
-LABELS_FOLDER_PATH = r'C:\Users\sumin\Desktop\Augmentation_DOTAv2.0\val\labels'  # 라벨 폴더 경로
-OBJECT_IMAGES_FOLDER = r'C:\Users\sumin\Desktop\Augmentation_DOTAv2.0\object'
-BACKGROUND_IMAGES_FOLDER = r'C:\Users\sumin\Desktop\TOD_data\DOTA-v2.0_all_label\fourth\val\images'
-OUTPUT_IMAGES_FOLDER = r'C:\Users\sumin\Desktop\Augmentation_DOTAv2.0\val\mid_images'
+CLASS_LABELS = ['label1', 'label2']
+LABELS_FOLDER_PATH = ""  # 라벨 폴더 경로
+OBJECT_IMAGES_FOLDER = "" # 삽입할 객체 이미지 폴더 경로
+BACKGROUND_IMAGES_FOLDER = "" # 배경 이미지 폴더 경로
+OUTPUT_IMAGES_FOLDER = "" # 결과 이미지 저장할 폴더 경로
 
 # 클릭 위치 및 객체 수를 저장하기 위한 전역 변수
 click_pos = None
